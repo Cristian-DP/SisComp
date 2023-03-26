@@ -43,6 +43,7 @@ conocer herramientas de consola básicas
 9. Se agrega comentario
 
 ![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2.png)
+![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2_1.png)
 
 ### Tercera parte
 
