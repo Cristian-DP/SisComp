@@ -41,22 +41,9 @@ conocer herramientas de consola básicas
 ### Segunda parte
 
 8. Se Edita INFORME.md desde local
-9. Agregamos el informe al arbol de indice
-10. Agreamos el informe al arbol HEAD local con comentario
-11. Editamos la imagen
-12. subimos los cambios
+9. Se edita INFORME.md desde github y se pushea
+10. Se pushea los cambios locales
+11. Se resuelve el conflicto
+12. Se pushea a github la resolución
 
 ![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2.png)
-![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2_1.png)
-
-### Tercera parte
-
-10.  Se crea repositorio en github y se obtiene la url
-11.  Se elaza el reporitorio local con la url del punto 10.
-12.  se pushean los archivos
-13.  se visuliza en github  
-
-![Comandos y flujo de trabajo 3.](images/ComandoYFlujoDeTrabajo_3.png)
-
-## Diagrama de secuencia
-![Diagrama de secuencia](images/DiagramaSecuencia.png)
