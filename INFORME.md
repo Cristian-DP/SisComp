@@ -35,7 +35,7 @@ conocer herramientas de consola básicas
 
 ![Comandos y flujo de trabajo 1.](images/ComandoYFlujoDeTrabajo_1.png)
 
-### Segunda parte
+### Segunda parte - Conflicto
 
 6. Se agrega INFORME.md al arbol indice
 7. Se agrega images/ al arbol indice
