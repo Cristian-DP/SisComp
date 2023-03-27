@@ -28,8 +28,8 @@ conocer herramientas de consola básicas
 
 ### Primera parte
 
-1. Se crea el repositorio de manera local
-2. Se crea el repositorio de manera local
+1. Se crea branch de nombre "rama"
+2. Nos movemos al branch "rama"
 3. Se crea directorio y archivo
 4. Se visualiza lo creado en el punto 4.
 
