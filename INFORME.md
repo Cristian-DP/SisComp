@@ -30,17 +30,21 @@ conocer herramientas de consola básicas
 
 1. Se crea branch de nombre "rama"
 2. Nos movemos al branch "rama"
-3. Se crea directorio y archivo
-4. Se visualiza lo creado en el punto 4.
+3. Editamos INFORME.ms
+4. Agregamos el informe al arbol de indice
+5. Agreamos el informe al arbol HEAD local con comentario
+6. Editamos la imagen
+7. subimos los cambios
 
 ![Comandos y flujo de trabajo 1.](images/ComandoYFlujoDeTrabajo_1.png)
 
 ### Segunda parte
 
-6. Se agrega INFORME.md al arbol indice
-7. Se agrega images/ al arbol indice
-8. Se revisa el estado de los archivos
-9. Se agrega comentario
+8. Se Edita INFORME.md desde local
+9. Agregamos el informe al arbol de indice
+10. Agreamos el informe al arbol HEAD local con comentario
+11. Editamos la imagen
+12. subimos los cambios
 
 ![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2.png)
 ![Comandos y flujo de trabajo 2.](images/ComandoYFlujoDeTrabajo_2_1.png)
