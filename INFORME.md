@@ -38,7 +38,7 @@ conocer herramientas de consola básicas
 
 ![Comandos y flujo de trabajo 1.](images/ComandoYFlujoDeTrabajo_1.png)
 
-### Segunda parte
+### Segunda parte - Conflicto
 
 8. Se Edita INFORME.md desde local
 9. Se edita INFORME.md desde github y se pushea
